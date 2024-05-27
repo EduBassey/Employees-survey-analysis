@@ -10,7 +10,7 @@ and contains 14,725 records. The total number of fields is 10.
 
 
 ### Data Sources
-The primary dataset provided is a CSV data set.Find the the link to the Employee Survey dataset in below:
+The primary dataset provided is a CSV data set.Find the the link to the Employee Survey dataset below:
 https://docs.google.com/spreadsheets/d/1nbhfp2ModgqDAPveYQG9CknRw2PYJQxbOTs3xSKOB8E/edit#gid=61186505
 
 ### Tools
